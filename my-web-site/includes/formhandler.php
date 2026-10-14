@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     echo "<br>";
     echo $firstname;
      echo "<br>";
-    echo $lastname;
+    echo $lastname; 
     echo "<br>";
     echo $favouritepet;
 

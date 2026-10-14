@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <a href="operators.php">Operators</a>
     <main>
         <form action="includes/formhandler.php" method="post">
             <header class="form-header">
